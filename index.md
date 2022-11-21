@@ -1,8 +1,8 @@
 # Welcome to my Blog.
 Hello, I'm Arden. This is a grarden to record my studies and life.
 
-Main Chinese study records is on [cnblog](https://www.cnblogs.com/ArdenWang)
-## On-doing
+Main Chinese study records are on [cnblog](https://www.cnblogs.com/ArdenWang)
+## 2022-OKR
 1. Prepare for the **Entrance examination for doctoral students** 
 2. **Half Marathon**
 3. Read Books
